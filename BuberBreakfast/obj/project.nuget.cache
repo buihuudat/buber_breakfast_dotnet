@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aaj7iwC2vDVlK2CA+MPyLNPUWJBF/PaA5Tursg1YcVWRFesl8vzaFVZb4hPHQA5fljSLu6S9h37iFTeIhoVs4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dat54\\OneDrive\\Desktop\\CSharp\\RestAPI_NET6\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dat54\\.nuget\\packages\\erroror\\1.0.1\\erroror.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

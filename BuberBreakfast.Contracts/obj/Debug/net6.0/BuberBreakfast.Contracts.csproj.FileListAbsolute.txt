@@ -1,0 +1,12 @@
+C:\Users\dat54\OneDrive\Desktop\CSharp\RestAPI_NET6\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net6.0\BuberBreakfast.Contracts.deps.json
+C:\Users\dat54\OneDrive\Desktop\CSharp\RestAPI_NET6\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net6.0\BuberBreakfast.Contracts.dll
+C:\Users\dat54\OneDrive\Desktop\CSharp\RestAPI_NET6\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net6.0\BuberBreakfast.Contracts.pdb
+C:\Users\dat54\OneDrive\Desktop\CSharp\RestAPI_NET6\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.csproj.AssemblyReference.cache
+C:\Users\dat54\OneDrive\Desktop\CSharp\RestAPI_NET6\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dat54\OneDrive\Desktop\CSharp\RestAPI_NET6\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.AssemblyInfoInputs.cache
+C:\Users\dat54\OneDrive\Desktop\CSharp\RestAPI_NET6\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.AssemblyInfo.cs
+C:\Users\dat54\OneDrive\Desktop\CSharp\RestAPI_NET6\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\dat54\OneDrive\Desktop\CSharp\RestAPI_NET6\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.dll
+C:\Users\dat54\OneDrive\Desktop\CSharp\RestAPI_NET6\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\refint\BuberBreakfast.Contracts.dll
+C:\Users\dat54\OneDrive\Desktop\CSharp\RestAPI_NET6\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.pdb
+C:\Users\dat54\OneDrive\Desktop\CSharp\RestAPI_NET6\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\ref\BuberBreakfast.Contracts.dll
